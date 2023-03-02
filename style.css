@@ -87,44 +87,5 @@ body {
     display: none;
 }
 
-/* desctop */
 
 
-@media screen and (min-width: 1024px) {
-    .conteiner-inner{
-        padding-top: 30px;
-        height: 509px;
-        width: 920px;
-        left: 0px;
-        top: 0px;
-        border-radius: 23px;
-        display: flex;
-        justify-content: space-between;
-    }
-
-    .cover-img-container{
-        display: none;
-    }
-
-    .accordeon{
-        width: 400px;
-        margin: auto;
-    }
-
-    hr{
-        width: 400px;
-    }
-
-    .descktop-img{
-        width: 277px;
-    }
-
-    .desc-img{
-        width: 377px;
-    }
-
-    .desc-img-one{
-        width: 377px;
-        transform: translateY(-317px);
-    }
-}
